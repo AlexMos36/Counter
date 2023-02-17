@@ -6,11 +6,11 @@ This is a simple counter implemented with JavaScript to S2I project.
 
 ## What I use for this project
 
->![Html](https://github.com/AlexMos36/Counter/blob/main/assets/Img/html-icon-32x32.png) 
+>![Html](https://github.com/AlexMos36/Counter/blob/main/assets/Img/html-icon-32x32.png) HTML
 
->![Css](https://github.com/AlexMos36/Counter/blob/main/assets/Img/css-icon-36x36.png)
+>![Css](https://github.com/AlexMos36/Counter/blob/main/assets/Img/css-icon-36x36.png) CSS
 
->![JS](https://github.com/AlexMos36/Counter/blob/main/assets/Img/js-icon-36x36.png) 
+>![JS](https://github.com/AlexMos36/Counter/blob/main/assets/Img/js-icon-36x36.png) JavaScriptBasics
 
 ## Functionality:
 
