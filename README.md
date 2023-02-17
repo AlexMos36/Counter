@@ -22,7 +22,7 @@ This is a simple counter implemented with JavaScript to S2I project.
 
 * I implemented any visible content with modification of the DOM and styling with CSS.
 
-
+## Screenshot
 
 ![Counter](https://github.com/AlexMos36/Counter/blob/main/assets/Img/Immagine%202023-02-17%20120251.png)
 
