@@ -2,7 +2,7 @@
 
 This is a simple counter implemented with JavaScript to S2I project.
 
-###### Here you can try it: https://meek-bunny-a01dee.netlify.app/.
+###### **Here you can try it**: https://meek-bunny-a01dee.netlify.app/.
 
 ## What I use for this project
 
@@ -14,10 +14,16 @@ This is a simple counter implemented with JavaScript to S2I project.
 
 ## Functionality:
 
-In this counter you can find three buttons that increase, decrease and reset the value.
+*In this counter you can find three buttons that increase, decrease and reset the value.
 
-The part of HTML was implemented completely with JS.
+*The part of HTML was implemented completely with JS.
+
+*The goal of this project was to learn and use the basics by JavaScript.
+
+*I implemented any visible content with modification of the DOM and styling with CSS.
 
 ![Counter](https://github.com/AlexMos36/Counter/blob/main/assets/Img/Immagine%202023-02-17%20120251.png)
+
+
 
 
