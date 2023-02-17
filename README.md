@@ -6,6 +6,6 @@ This is a simple counter implemented with JavaScript.
 
 ## How it look:
 
-[counter](https://github.com/AlexMos36/Counter/blob/main/assets/Img/Immagine%202023-02-17%20120251.png)
+[](https://github.com/AlexMos36/Counter/blob/main/assets/Img/Immagine%202023-02-17%20120251.png)
 
 
