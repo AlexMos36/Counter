@@ -26,6 +26,10 @@ This is a simple counter implemented with JavaScript to S2I project.
 
 ![Counter](https://github.com/AlexMos36/Counter/blob/main/assets/Img/Immagine%202023-02-17%20120251.png)
 
+## Contacts
+
+Alex Mos - (https://www.instagram.com/mos.alex369/)
+
 
 
 
