@@ -28,7 +28,7 @@ This is a simple counter implemented with JavaScript to S2I project.
 
 ## Contacts
 
-Alex Mos - (https://www.instagram.com/mos.alex369/)
+Alex Mos -[Instagram](https://www.instagram.com/mos.alex369/)
 
 
 
