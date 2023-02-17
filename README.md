@@ -32,7 +32,7 @@ Alex Mos
 
 [Instagram](https://www.instagram.com/mos.alex369/)
 
-[alexandru.mos36@gmail.com](alexandru.mos36@gmail.com)
+[Gmail](alexandru.mos36@gmail.com)
 
 
 
