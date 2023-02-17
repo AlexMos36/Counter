@@ -28,11 +28,9 @@ This is a simple counter implemented with JavaScript to S2I project.
 
 ## Contacts
 
-Alex Mos 
+Alex Mos - [Instagram](https://www.instagram.com/mos.alex369/) - [github](https://github.com/AlexMos36)
 
-[Instagram](https://www.instagram.com/mos.alex369/)
-
-[Gmail](alexandru.mos36@gmail.com)
+**My portfolio** - [StreetBasketCorna](https://alexmos36.github.io/StreetBasketCorna/)
 
 
 
